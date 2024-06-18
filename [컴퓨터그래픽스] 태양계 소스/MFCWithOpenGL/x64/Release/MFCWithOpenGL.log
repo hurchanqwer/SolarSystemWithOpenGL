@@ -1,0 +1,62 @@
+﻿  MFCWithOpenGLView.cpp
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(26,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(27,9): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(28,9): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(53,16): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(54,14): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(55,14): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(56,13): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(57,13): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(140,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(154,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(153,11): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(152,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(160,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(159,7): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(158,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(166,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(165,11): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(164,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(172,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(171,7): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(170,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(178,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(177,11): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(176,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(184,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(183,7): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(182,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(190,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(189,11): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(188,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(196,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(195,7): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(194,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(206,11): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(207,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(208,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(218,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(227,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(226,7): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(225,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(233,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(232,7): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(231,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(239,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(238,7): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(237,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(245,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(244,7): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(243,21): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(258,23): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(259,20): warning C4804: '>': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(601,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(602,17): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(643,28): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP(662,27): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 306 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  MFCWithOpenGL.vcxproj -> C:\Users\hurch\Desktop\[컴퓨터그래픽스] TP#2 92015946 허찬\[컴퓨터그래픽스] TP#2 92015946 허찬 소스\x64\Release\MFCWithOpenGL.exe
